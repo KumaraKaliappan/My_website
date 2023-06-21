@@ -492,7 +492,7 @@ h3.my-profession {
     text-transform: capitalize;
 
 }
-.about .about-contant .timeline .timeline-text{
+.about .about-contant .timeline .text-area{
     text-align: justify;
     font-size: 16px;
     color: var(--text-black-700);
