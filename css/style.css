@@ -278,8 +278,7 @@ h3.my-profession {
     border-right: 10px solid var(--skin-color);
     right: 20px;
     bottom: -40px;
-    border-radius: 20px;  
-    
+    border-radius: 20px;
 }
 .my-img::before{
     content: "";
